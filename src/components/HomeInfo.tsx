@@ -36,7 +36,7 @@ const renderContent: { [key: number]: JSX.Element } = {
   2: (
     <InfoBox
       text="Worked with many projects and developing many skills"
-      link="/about"
+      link="/3D-Portfolio_Island/"
       btnText="Learn more"
     />
   ),
@@ -44,7 +44,7 @@ const renderContent: { [key: number]: JSX.Element } = {
   3: (
     <InfoBox
       text="Led multiple projects to success over the years"
-      link="/projects"
+      link="https://kurtbadillo.com"
       btnText="Visit my portfolio"
     />
   ),
